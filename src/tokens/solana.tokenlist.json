@@ -15874,6 +15874,20 @@
         "coingeckoId": "graviton"
       }
     },
+     {
+      "chainId": 101,
+      "address": "3uTfUhNvpXbfNNEYQT4soZLiE7hswxWHCc5YCXyrJJeF",
+      "symbol": "CRYPT",
+      "name": "Crypt Space",
+      "decimals": 9,
+      "logoURI": "https://www.collectibulls.art/favicon.ico",
+      "tags": [],
+      "extensions": {
+        "website": "https://www.collectibulls.art",
+        "twitter": "https://twitter.com/collecti_bulls?t=0n4yEj_rin50iTj40Ud4bQ&s=09",
+        "discord": "https://discord.com/invite/7QRFFKNbU5"
+      }
+    },
     {
       "chainId": 101,
       "address": "4qv2AGjhzxiNz5iTUnTdRVYjjacmaEcVGgFcr1R6sRFe",
